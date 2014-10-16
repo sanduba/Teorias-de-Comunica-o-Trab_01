@@ -1,7 +1,7 @@
 Teorias-de-Comunica-o-Trab_01
 =============================
-
- Resumo 01
+Olá MUNDO
+Resumo 01
  
 Na parte introdutória do texto “ A planetarização da Informação mediática e os horizontes da experiência comunical de Rodrigues, Adriano Duarte, “ Comunicação e cultura” Lisboa, Presença, 1993 1ª Parte: cap II o autor diferencia claramente dois conceitos que se interligam entre si, a informação e a comunicação como base de estudo no foro desta problemática.
 Se por um lado os meios tecnológicos tiveram um papel fundamental na planetarização da esfera informativa criando uma ilusão da criação de uma “aldeia global” identifica-se contudo um “recrudescimento, dos regionalismos, dos nacionalismos e dos fundamentalismos, fenómenos que parecem resistir à força homogeneizadora da informação planetária (…). O autor Rodrigues tem necessidade numa primeira fase de diferenciar as diferentes esferas da informação e da dimensão comunicacional com o objectivo de poder abordar individualmente ambos os campos de modo a facilitar a sua compreensão. Posteriormente aborda as suas interligações e questões do foro da sua importância no normal ciclo de vida do mundo.
@@ -13,6 +13,7 @@ Inicia a sua abordagem á comunicação com um paralelismo e um distanciamento e
  A sua relativa previsibilidade defende da interrogação as regras deste processo regem-se por princípio da natureza simbólica e os seus intervenientes são ao mesmo tempo, destinadores e destinatários de uma ou mais mensagem. É através da comunicação que se geram laços sociais, este representam manifestações culturais como linguagem verbal o vestuário e ou arte podem suster-se em interações positivas e negativas ..
 
 Resumo 02
+
 O conceito “informação” inclui todos os acontecimentos que nos rodeiam, sendo que o valor informativo destes é inversamente proporcional à sua probabilidade de ocorrência. Pode por isso dizer-se, que a informação está intrinsecamente relacionada com o inesperado e o imprevisível. As suas regras não dependem do controlo da razão humana, aparentando-se com as leis da natureza. Como tal, o valor informativo de um acontecimento diminui à medida que a mensagem vai sendo socialmente aceite.
 A “comunicação” é um processo que ocorre entre pessoas. A sua (relativa) previsibilidade depende da intercompreensão. As regras deste processo regem-se por princípios de natureza simbólica, e os seus intervenientes são, ao mesmo tempo, destinadores e destinatários de uma ou mais mensagens. É através da comunicação que se geram laços sociais. Estes representam manifestações culturais (como a linguagem verbal, o vestuário ou a arte) e podem suster-se em interações positivas e negativas.
 Apesar de distintas, a esfera da informação e o domínio da comunicação estabelecem relações interespecíficas. Atualmente, e por culpa da diversidade de dispositivos de informação, que tornaram a informação abundante, rápida e instantânea, a “aldeia global” planetária muda mais rapidamente que os nossos quadros de referência. Os dispositivos tecnológicos esbatem as fronteiras entre as comunidades, tornando a informação transnacional, no entanto, isso não significa que todos partilhamos a mesma visão do mundo, ou passemos a ter as mesmas representações da realidade. Cada um de nós continua a interpretar os acontecimentos no contexto da experiência espontânea das nossas vivências culturais.
